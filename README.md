@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-program6_1-py
+<br>
+This program saves hardware inventory to a file named stock.txt. The program should prompt the user for the name and quantity in stock for as many inventory items as desired, but you should enter at least four inventory items. Each item name should be saved on its own line in the file, and be followed by its quantity on the next line. You must use a loop that will continue until no item name is ***** ***** program should generate a confirmation message when done.
